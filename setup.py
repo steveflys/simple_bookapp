@@ -10,5 +10,5 @@ setup(
     package_dir={'': 'src'},
     py_modules=['bookapp', 'bookdb'],
     install_requires=[],
-    extras_require={'test': ['pytest', 'pytest-watch', 'webtest', 'tox']},
+    extras_require={'test': ['pytest', 'pytest-cov', 'pytest-watch', 'webtest', 'tox']},
 )
