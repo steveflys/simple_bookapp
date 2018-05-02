@@ -1,0 +1,4 @@
+Host stannon
+   Hostname ec2-35-165-3-239.us-west-2.compute.amazonaws.com
+   User ubuntu
+   IdentityFile ~/.ssh/stannon.pem
